@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700');
+
+/*
+.App {
+  background-image: url(https://wallpaperplay.com/walls/full/7/3/a/162157.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+*/
+
+body{
+  background-color: #000507;
+  color: white;
+}
+
+.loading-screen {
+  position: relative;
+  margin-top: 45vh;
+  margin-left: 48%;
+  background-color: black;
+}
+
